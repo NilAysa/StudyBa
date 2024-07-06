@@ -1,0 +1,111 @@
+﻿@{
+    Layout = "_Layout"; // Koristimo shared layout
+}
+@if (User.Identity.IsAuthenticated)
+{
+    <style>
+        .background-image {
+            max-width: 100%;
+            height: auto;
+            max-height: 120%; /* Prilagodite visinu prema potrebama */
+            margin-left: -5cm; /* Pomeranje slike ulijevo za 20 piksela */
+            position: relative; /* Postavljamo relativni položaj za dodavanje efekata */
+        }
+
+        .background-overlay {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background-color: rgba(255, 255, 255, 0.6); /* Poluprozirni bijeli sloj, povećavamo transparentnost */
+            z-index: 1; /* Postavljamo indeks sloja kako bi efekat bio iznad slike */
+        }
+    </style>
+    <div class="container">
+        <div class="row justify-content-center mt-5">
+            <div class="col-md-6 text-center position-relative">
+                <img src="~/images/background.jpg" alt="Slika" class="background-image">
+                <div class="background-overlay"></div> <!-- Dodajemo poluprozirni bijeli sloj preko slike -->
+            </div>
+            <div class="col-md-5 text-center align-self-center">
+                <h1>Welcome to StudyBa!</h1>
+                <div class="mt-5">
+                    <div class="d-flex justify-content-center">
+                        <a href="@Url.Action("Index", "Faculties")" class="btn btn-warning btn-lg mr-2" style="width: 200px; margin-right: 20px;">Faculties</a>
+                        <a href="@Url.Action("Index", "News")" class="btn btn-warning btn-lg" style="width: 200px;">News</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+}
+
+else
+{
+    <style>
+        body {
+            overflow: hidden; /* Isključujemo scroll na stranici */
+        }
+
+        .background-image {
+            background-image: url('@Url.Content("~/images/studyBa2.jpg")');
+            background-size: contain; /* Promijenili smo veličinu pozadinske slike */
+            background-position: center 50px; /* Sliku spuštamo malo niže */
+            background-repeat: no-repeat;
+            height: 100vh; /* Postavljamo visinu pozadinske slike na 80% visine ekrana */
+            width: 100%;
+            position: relative; /* Postavljamo relativni položaj za dodavanje efekata */
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+
+        .text-container {
+            position: relative;
+            text-align: center;
+            color: rgba(0, 0, 0, 0.8); /* Promijenili smo boju teksta u crnu i povećali transparentnost */
+            z-index: 1; /* Postavljamo indeks sloja kako bi tekst bio iznad efekata */
+            margin-left: 5cm; /* Pomičemo tekst za 5 centimetara udesno */
+        }
+
+        .background-overlay {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background-color: rgba(255, 255, 255, 0.6); /* Poluprozirni bijeli sloj, povećavamo transparentnost */
+            z-index: 0; /* Postavljamo indeks sloja kako bi efekat bio ispod teksta */
+        }
+
+        .lead {
+            font-size: 2.5em; /* Povećavamo veličinu teksta */
+        }
+
+        .btn-primary:hover,
+        .btn-primary:focus {
+            background-color: #28a745; /* Zelena boja za hover efekat */
+            border-color: #28a745;
+        }
+
+        .btn-secondary:hover,
+        .btn-secondary:focus {
+            background-color: #007bff; /* Plava boja za hover efekat */
+            border-color: #007bff;
+        }
+    </style>
+    <div class="container-fluid p-0">
+        <!-- Uklanjamo vanjski padding -->
+        <div class="row no-gutters">
+            <!-- Uklanjamo vanjske margine -->
+            <div class="col-lg-12 background-image">
+                <div class="text-container">
+                    <p class="lead mt-5">Welcome to StudyBa!</p> <!-- Povećavamo margin-top za tekst -->
+                    <p class="lead">Let's begin your learning adventure!</p>
+                </div>
+                <div class="background-overlay"></div> <!-- Dodajemo poluprozirni bijeli sloj preko pozadine -->
+            </div>
+        </div>
+    </div>
+}

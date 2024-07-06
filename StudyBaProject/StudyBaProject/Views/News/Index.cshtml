@@ -1,0 +1,160 @@
+﻿@model IEnumerable<StudyBa.Models.News>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewData["Title"]</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f5f5f5;
+            margin: 0;
+            padding: 0;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: #fff;
+            border: 1px solid #ccc;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+
+        .scrollable-container {
+            max-height: 550px; /* Smanjena visina kontejnera */
+            overflow-y: auto; /* Omogućava vertikalni skrol unutar kontejnera */
+        }
+
+        .news-list {
+            list-style-type: none;
+            padding: 0;
+            margin: 0;
+        }
+
+        .news-item {
+            margin-bottom: 30px;
+            padding: 20px;
+            border: 1px solid #ccc;
+            border-radius: 10px;
+            background-color: #fff;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+        }
+
+        .news-title {
+            margin: 0;
+            font-size: 20px; /* Smanjenje veličine naslova */
+            font-weight: bold; /* Boldiranje naslova */
+            color: #333;
+        }
+
+        .news-link {
+            color: #007bff;
+            text-decoration: none;
+            transition: color 0.3s ease;
+            display: block; /* Postavljanje linka kao bloka */
+            overflow: hidden; /* Uklanjanje preljeva teksta */
+            white-space: nowrap; /* Sprječavanje prelaska teksta u novi red */
+            text-overflow: ellipsis; /* Dodavanje trotočke ako je tekst prevelik */
+            max-width: 300px; /* Postavljanje maksimalne širine linka */
+        }
+
+            .news-link:hover {
+                color: #0056b3;
+                text-decoration: underline;
+            }
+
+        .news-source {
+            margin: 10px 0 0 0;
+            font-size: 16px; /* Smanjenje veličine izvora */
+            color: #555;
+        }
+
+        .search-bar {
+            float: right;
+        }
+
+        .search-input {
+            padding: 8px 10px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            font-size: 16px;
+        }
+
+        .search-button {
+            background-color: #FFA500; /* Boja "warning" */
+            color: #fff;
+            border: none;
+            padding: 8px 12px;
+            border-radius: 5px;
+            font-size: 16px;
+            cursor: pointer;
+        }
+
+            .search-button:hover {
+                background-color: #FFA500; /* Boja ostaje ista na hoveru */
+            }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div style="overflow: auto;">
+            <h1 style="float: left; font-size: 32px; margin-bottom: 30px; font-weight: bold;">Latest News Articles</h1>
+
+            <div class="search-bar" style="float: right; margin-top: 10px;">
+                <select id="filterDropdown" class="search-input">
+                    <option value="">Select a keyword</option>
+                    <option value="konkurs">Konkurs</option>
+                    <option value="praksa">Praksa</option>
+                    <option value="takmicenje">Takmicenje</option>
+                    <option value="posao">Posao</option>
+                    <option value="odbrana">Odbrana</option>
+                </select>
+                <button onclick="filterNews()" class="search-button">Filter</button>
+            </div>
+        </div>
+
+        <div class="scrollable-container">
+            <ul class="news-list">
+                @foreach (var item in Model)
+                {
+                    <li class="news-item">
+                        <h2 class="news-title">@item.Title</h2>
+                        <p class="news-source">
+                            <a href="@item.SourceLink" target="_blank" class="news-link">@item.SourceLink</a>
+                        </p>
+                    </li>
+                }
+            </ul>
+        </div>
+    </div>
+
+    <script>
+        function filterNews() {
+            var dropdown, filter, ul, li, a, i, txtValue;
+            dropdown = document.getElementById('filterDropdown');
+            filter = dropdown.value.toUpperCase();
+            ul = document.querySelector('.news-list');
+            li = ul.getElementsByTagName('li');
+
+            for (i = 0; i < li.length; i++) {
+                a = li[i].getElementsByClassName('news-title')[0];
+                txtValue = a.textContent || a.innerText;
+                if (txtValue.toUpperCase().indexOf(filter) > -1 || filter === "") {
+                    li[i].style.display = "";
+                } else {
+                    li[i].style.display = "none";
+                }
+            }
+        }
+    </script>
+
+</body>
+</html>

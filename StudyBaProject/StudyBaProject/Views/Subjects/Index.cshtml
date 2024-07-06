@@ -1,0 +1,65 @@
+﻿@model IEnumerable<StudyBa.Models.Subject>
+@{
+    ViewData["Title"] = "Subjects";
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewData["Title"]</title>
+    <style>
+        .container {
+            width: 100%;
+            margin-top: 40px;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+
+        th, td {
+            padding: 12px; /* Povećajte razmak za bolju čitljivost */
+            text-align: left;
+            border-bottom: 1px solid #ddd;
+            font-size: 30px; /* Uvećajte font na 20 piksela */
+        }
+
+        th {
+            background-color: #f2f2f2;
+        }
+
+        .subject-link {
+            text-decoration: none; /* Ukloni podcrtavanje */
+            color: inherit; /* Naslijedi boju teksta */
+        }
+    </style>
+</head>
+<body>
+    <h1>@ViewData["Title"]</h1>
+    <div class="container">
+        <table>
+            <thead>
+                <tr>
+                    <th>Subject Name</th>
+                    <th></th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var subject in Model)
+                {
+                    <tr>
+                        <td class="subject-item">
+                            <a class="subject-link" asp-controller="TutorSubjects" asp-action="Tutors" asp-route-id="@subject.SubjectId">
+                                @subject.SubjectName
+                            </a>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</body>
+</html>

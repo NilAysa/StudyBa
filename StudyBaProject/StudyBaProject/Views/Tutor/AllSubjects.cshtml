@@ -1,0 +1,120 @@
+﻿@model List<StudyBa.Models.Subject>
+
+@{
+    ViewData["Title"] = "Choose Subject to Teach";
+}
+
+<style>
+    /* Style for the search button */
+    #searchButton {
+        margin-left: 10px;
+    }
+
+    /* Style for the table */
+    #subjectTable {
+        max-width: 1000px;
+        margin-top: 30px; /* Dodan razmak ispod naslova */
+    }
+
+    /* Style for table head */
+    .thead-dark th {
+        background-color: #7c7579; /* Bež boja za glavu tabele */
+        color: #000000; /* Tamno siva boja teksta */
+    }
+
+    /* Style for alternating row colors */
+    .table-striped tbody tr:nth-of-type(odd) {
+        background-color: #f8f9fa; /* Svetlo siva boja za parne redove */
+    }
+
+    /* Adjusting colors */
+    body {
+        background-color: #f8f9fa; /* Svetlo siva pozadinska boja */
+    }
+
+    h2 {
+        color: #343a40; /* Tamno siva boja za naslov */
+    }
+
+    .container {
+        background-color: #fff; /* Bijela boja pozadine kontejnera */
+        padding: 20px; /* Dodan padding oko sadržaja */
+        border-radius: 10px; /* Dodan zaobljeni rub kontejneru */
+        box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.1); /* Dodan lagani sjaj */
+    }
+
+    .input-group {
+        margin-bottom: 20px; /* Dodan razmak ispod pretraživačkog polja */
+    }
+
+    /* Style for buttons */
+    .btn {
+        background-color: transparent;
+        color: #343a40; /* Tamno siva boja teksta */
+        border: 1px solid #6c757d; /* Svetlo siva boja ivice */
+    }
+
+        .btn:hover {
+            background-color: #6c757d; /* Svetlo siva boja prilikom hovera */
+            color: #fff; /* Bijela boja teksta prilikom hovera */
+        }
+</style>
+
+<div class="container mt-5 pt-5">
+    <h2 class="mb-4">Choose Subject to Teach</h2> <!-- Dodan razmak ispod naslova -->
+    <div class="input-group" style="max-width: 500px;">
+        <!-- Povećana širina pretraživačkog polja -->
+        <input type="text" class="form-control form-control-lg" placeholder="Search subject..." aria-label="Search subject" aria-describedby="button-addon2" id="searchInput">
+        <div class="input-group-append">
+            <button class="btn btn-outline-success btn-lg" type="button" id="searchButton">Search</button> <!-- Povećana veličina dugmeta -->
+        </div>
+    </div>
+    <table class="table table-striped" id="subjectTable">
+        <thead class="thead-dark">
+            <tr>
+                <th>Subject Name</th>
+                <th>Action</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var subject in Model)
+            {
+                <tr>
+                    <td>@subject.SubjectName</td>
+                    <td>
+                        <form asp-action="AddSubject" asp-controller="Tutor">
+                            <input type="hidden" name="tutorId" value="@ViewBag.TutorId" />
+                            <input type="hidden" name="subjectId" value="@subject.SubjectId" />
+                            <button type="submit" class="btn btn-success btn-sm">Add</button>
+                        </form>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
+
+@section Scripts {
+    <script>
+        $(document).ready(function () {
+            $("#searchButton").click(function () {
+                var input, filter, table, tr, td, i, txtValue;
+                input = document.getElementById("searchInput");
+                filter = input.value.toUpperCase();
+                table = document.getElementById("subjectTable");
+                tr = table.getElementsByTagName("tr");
+                for (i = 0; i < tr.length; i++) {
+                    td = tr[i].getElementsByTagName("td")[0];
+                    if (td) {
+                        txtValue = td.textContent || td.innerText;
+                        if (txtValue.toUpperCase().indexOf(filter) > -1) {
+                            tr[i].style.display = "";
+                        } else {
+                            tr[i].style.display = "none";
+                        }
+                    }
+                }
+            });
+        });
+    </script>
+}

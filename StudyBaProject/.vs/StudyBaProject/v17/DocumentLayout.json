@@ -1,0 +1,1051 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Korisnik\\Desktop\\oooad2\\RK3\\StudyBaProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3AB3C94B-E256-4709-85B9-7818783BDA24}|StudyBaProject\\StudyBaProject.csproj|c:\\users\\korisnik\\desktop\\oooad2\\rk3\\studybaproject\\studybaproject\\views\\news\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3AB3C94B-E256-4709-85B9-7818783BDA24}|StudyBaProject\\StudyBaProject.csproj|solutionrelative:studybaproject\\views\\news\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AB3C94B-E256-4709-85B9-7818783BDA24}|StudyBaProject\\StudyBaProject.csproj|c:\\users\\korisnik\\desktop\\oooad2\\rk3\\studybaproject\\studybaproject\\controllers\\newscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AB3C94B-E256-4709-85B9-7818783BDA24}|StudyBaProject\\StudyBaProject.csproj|solutionrelative:studybaproject\\controllers\\newscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AB3C94B-E256-4709-85B9-7818783BDA24}|StudyBaProject\\StudyBaProject.csproj|c:\\users\\korisnik\\desktop\\oooad2\\rk3\\studybaproject\\studybaproject\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AB3C94B-E256-4709-85B9-7818783BDA24}|StudyBaProject\\StudyBaProject.csproj|solutionrelative:studybaproject\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AB3C94B-E256-4709-85B9-7818783BDA24}|StudyBaProject\\StudyBaProject.csproj|c:\\users\\korisnik\\desktop\\oooad2\\rk3\\studybaproject\\studybaproject\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3AB3C94B-E256-4709-85B9-7818783BDA24}|StudyBaProject\\StudyBaProject.csproj|solutionrelative:studybaproject\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AB3C94B-E256-4709-85B9-7818783BDA24}|StudyBaProject\\StudyBaProject.csproj|c:\\users\\korisnik\\desktop\\oooad2\\rk3\\studybaproject\\studybaproject\\views\\tutor\\profiletutor.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3AB3C94B-E256-4709-85B9-7818783BDA24}|StudyBaProject\\StudyBaProject.csproj|solutionrelative:studybaproject\\views\\tutor\\profiletutor.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AB3C94B-E256-4709-85B9-7818783BDA24}|StudyBaProject\\StudyBaProject.csproj|c:\\users\\korisnik\\desktop\\oooad2\\rk3\\studybaproject\\studybaproject\\views\\home\\search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3AB3C94B-E256-4709-85B9-7818783BDA24}|StudyBaProject\\StudyBaProject.csproj|solutionrelative:studybaproject\\views\\home\\search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AB3C94B-E256-4709-85B9-7818783BDA24}|StudyBaProject\\StudyBaProject.csproj|c:\\users\\korisnik\\desktop\\oooad2\\rk3\\studybaproject\\studybaproject\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AB3C94B-E256-4709-85B9-7818783BDA24}|StudyBaProject\\StudyBaProject.csproj|solutionrelative:studybaproject\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AB3C94B-E256-4709-85B9-7818783BDA24}|StudyBaProject\\StudyBaProject.csproj|c:\\users\\korisnik\\desktop\\oooad2\\rk3\\studybaproject\\studybaproject\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AB3C94B-E256-4709-85B9-7818783BDA24}|StudyBaProject\\StudyBaProject.csproj|solutionrelative:studybaproject\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AB3C94B-E256-4709-85B9-7818783BDA24}|StudyBaProject\\StudyBaProject.csproj|c:\\users\\korisnik\\desktop\\oooad2\\rk3\\studybaproject\\studybaproject\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3AB3C94B-E256-4709-85B9-7818783BDA24}|StudyBaProject\\StudyBaProject.csproj|solutionrelative:studybaproject\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AB3C94B-E256-4709-85B9-7818783BDA24}|StudyBaProject\\StudyBaProject.csproj|c:\\users\\korisnik\\desktop\\oooad2\\rk3\\studybaproject\\studybaproject\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AB3C94B-E256-4709-85B9-7818783BDA24}|StudyBaProject\\StudyBaProject.csproj|solutionrelative:studybaproject\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AB3C94B-E256-4709-85B9-7818783BDA24}|StudyBaProject\\StudyBaProject.csproj|c:\\users\\korisnik\\desktop\\oooad2\\rk3\\studybaproject\\studybaproject\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AB3C94B-E256-4709-85B9-7818783BDA24}|StudyBaProject\\StudyBaProject.csproj|solutionrelative:studybaproject\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AB3C94B-E256-4709-85B9-7818783BDA24}|StudyBaProject\\StudyBaProject.csproj|c:\\users\\korisnik\\desktop\\oooad2\\rk3\\studybaproject\\studybaproject\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3AB3C94B-E256-4709-85B9-7818783BDA24}|StudyBaProject\\StudyBaProject.csproj|solutionrelative:studybaproject\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AB3C94B-E256-4709-85B9-7818783BDA24}|StudyBaProject\\StudyBaProject.csproj|c:\\users\\korisnik\\desktop\\oooad2\\rk3\\studybaproject\\studybaproject\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3AB3C94B-E256-4709-85B9-7818783BDA24}|StudyBaProject\\StudyBaProject.csproj|solutionrelative:studybaproject\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AB3C94B-E256-4709-85B9-7818783BDA24}|StudyBaProject\\StudyBaProject.csproj|c:\\users\\korisnik\\desktop\\oooad2\\rk3\\studybaproject\\studybaproject\\controllers\\tutorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AB3C94B-E256-4709-85B9-7818783BDA24}|StudyBaProject\\StudyBaProject.csproj|solutionrelative:studybaproject\\controllers\\tutorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AB3C94B-E256-4709-85B9-7818783BDA24}|StudyBaProject\\StudyBaProject.csproj|c:\\users\\korisnik\\desktop\\oooad2\\rk3\\studybaproject\\studybaproject\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AB3C94B-E256-4709-85B9-7818783BDA24}|StudyBaProject\\StudyBaProject.csproj|solutionrelative:studybaproject\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AB3C94B-E256-4709-85B9-7818783BDA24}|StudyBaProject\\StudyBaProject.csproj|c:\\users\\korisnik\\desktop\\oooad2\\rk3\\studybaproject\\studybaproject\\views\\student\\profilestudent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3AB3C94B-E256-4709-85B9-7818783BDA24}|StudyBaProject\\StudyBaProject.csproj|solutionrelative:studybaproject\\views\\student\\profilestudent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AB3C94B-E256-4709-85B9-7818783BDA24}|StudyBaProject\\StudyBaProject.csproj|c:\\users\\korisnik\\desktop\\oooad2\\rk3\\studybaproject\\studybaproject\\models\\sessionrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AB3C94B-E256-4709-85B9-7818783BDA24}|StudyBaProject\\StudyBaProject.csproj|solutionrelative:studybaproject\\models\\sessionrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AB3C94B-E256-4709-85B9-7818783BDA24}|StudyBaProject\\StudyBaProject.csproj|c:\\users\\korisnik\\desktop\\oooad2\\rk3\\studybaproject\\studybaproject\\views\\tutorsubjects\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3AB3C94B-E256-4709-85B9-7818783BDA24}|StudyBaProject\\StudyBaProject.csproj|solutionrelative:studybaproject\\views\\tutorsubjects\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AB3C94B-E256-4709-85B9-7818783BDA24}|StudyBaProject\\StudyBaProject.csproj|c:\\users\\korisnik\\desktop\\oooad2\\rk3\\studybaproject\\studybaproject\\controllers\\tutorsubjectscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AB3C94B-E256-4709-85B9-7818783BDA24}|StudyBaProject\\StudyBaProject.csproj|solutionrelative:studybaproject\\controllers\\tutorsubjectscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AB3C94B-E256-4709-85B9-7818783BDA24}|StudyBaProject\\StudyBaProject.csproj|c:\\users\\korisnik\\desktop\\oooad2\\rk3\\studybaproject\\studybaproject\\models\\location.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AB3C94B-E256-4709-85B9-7818783BDA24}|StudyBaProject\\StudyBaProject.csproj|solutionrelative:studybaproject\\models\\location.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AB3C94B-E256-4709-85B9-7818783BDA24}|StudyBaProject\\StudyBaProject.csproj|c:\\users\\korisnik\\desktop\\oooad2\\rk3\\studybaproject\\studybaproject\\models\\newskeyword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AB3C94B-E256-4709-85B9-7818783BDA24}|StudyBaProject\\StudyBaProject.csproj|solutionrelative:studybaproject\\models\\newskeyword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AB3C94B-E256-4709-85B9-7818783BDA24}|StudyBaProject\\StudyBaProject.csproj|c:\\users\\korisnik\\desktop\\oooad2\\rk3\\studybaproject\\studybaproject\\views\\tutor\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3AB3C94B-E256-4709-85B9-7818783BDA24}|StudyBaProject\\StudyBaProject.csproj|solutionrelative:studybaproject\\views\\tutor\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AB3C94B-E256-4709-85B9-7818783BDA24}|StudyBaProject\\StudyBaProject.csproj|c:\\users\\korisnik\\desktop\\oooad2\\rk3\\studybaproject\\studybaproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AB3C94B-E256-4709-85B9-7818783BDA24}|StudyBaProject\\StudyBaProject.csproj|solutionrelative:studybaproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AB3C94B-E256-4709-85B9-7818783BDA24}|StudyBaProject\\StudyBaProject.csproj|c:\\users\\korisnik\\desktop\\oooad2\\rk3\\studybaproject\\studybaproject\\studybaproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3AB3C94B-E256-4709-85B9-7818783BDA24}|StudyBaProject\\StudyBaProject.csproj|solutionrelative:studybaproject\\studybaproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AB3C94B-E256-4709-85B9-7818783BDA24}|StudyBaProject\\StudyBaProject.csproj|c:\\users\\korisnik\\desktop\\oooad2\\rk3\\studybaproject\\studybaproject\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AB3C94B-E256-4709-85B9-7818783BDA24}|StudyBaProject\\StudyBaProject.csproj|solutionrelative:studybaproject\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AB3C94B-E256-4709-85B9-7818783BDA24}|StudyBaProject\\StudyBaProject.csproj|c:\\users\\korisnik\\desktop\\oooad2\\rk3\\studybaproject\\studybaproject\\models\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AB3C94B-E256-4709-85B9-7818783BDA24}|StudyBaProject\\StudyBaProject.csproj|solutionrelative:studybaproject\\models\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AB3C94B-E256-4709-85B9-7818783BDA24}|StudyBaProject\\StudyBaProject.csproj|c:\\users\\korisnik\\desktop\\oooad2\\rk3\\studybaproject\\studybaproject\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3AB3C94B-E256-4709-85B9-7818783BDA24}|StudyBaProject\\StudyBaProject.csproj|solutionrelative:studybaproject\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AB3C94B-E256-4709-85B9-7818783BDA24}|StudyBaProject\\StudyBaProject.csproj|c:\\users\\korisnik\\desktop\\oooad2\\rk3\\studybaproject\\studybaproject\\models\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AB3C94B-E256-4709-85B9-7818783BDA24}|StudyBaProject\\StudyBaProject.csproj|solutionrelative:studybaproject\\models\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AB3C94B-E256-4709-85B9-7818783BDA24}|StudyBaProject\\StudyBaProject.csproj|c:\\users\\korisnik\\desktop\\oooad2\\rk3\\studybaproject\\studybaproject\\models\\session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AB3C94B-E256-4709-85B9-7818783BDA24}|StudyBaProject\\StudyBaProject.csproj|solutionrelative:studybaproject\\models\\session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AB3C94B-E256-4709-85B9-7818783BDA24}|StudyBaProject\\StudyBaProject.csproj|c:\\users\\korisnik\\desktop\\oooad2\\rk3\\studybaproject\\studybaproject\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AB3C94B-E256-4709-85B9-7818783BDA24}|StudyBaProject\\StudyBaProject.csproj|solutionrelative:studybaproject\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AB3C94B-E256-4709-85B9-7818783BDA24}|StudyBaProject\\StudyBaProject.csproj|c:\\users\\korisnik\\desktop\\oooad2\\rk3\\studybaproject\\studybaproject\\views\\tutorsubjects\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3AB3C94B-E256-4709-85B9-7818783BDA24}|StudyBaProject\\StudyBaProject.csproj|solutionrelative:studybaproject\\views\\tutorsubjects\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AB3C94B-E256-4709-85B9-7818783BDA24}|StudyBaProject\\StudyBaProject.csproj|c:\\users\\korisnik\\desktop\\oooad2\\rk3\\studybaproject\\studybaproject\\views\\subjects\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3AB3C94B-E256-4709-85B9-7818783BDA24}|StudyBaProject\\StudyBaProject.csproj|solutionrelative:studybaproject\\views\\subjects\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AB3C94B-E256-4709-85B9-7818783BDA24}|StudyBaProject\\StudyBaProject.csproj|c:\\users\\korisnik\\desktop\\oooad2\\rk3\\studybaproject\\studybaproject\\models\\usernews.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AB3C94B-E256-4709-85B9-7818783BDA24}|StudyBaProject\\StudyBaProject.csproj|solutionrelative:studybaproject\\models\\usernews.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AB3C94B-E256-4709-85B9-7818783BDA24}|StudyBaProject\\StudyBaProject.csproj|c:\\users\\korisnik\\desktop\\oooad2\\rk3\\studybaproject\\studybaproject\\models\\tutorsubject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AB3C94B-E256-4709-85B9-7818783BDA24}|StudyBaProject\\StudyBaProject.csproj|solutionrelative:studybaproject\\models\\tutorsubject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AB3C94B-E256-4709-85B9-7818783BDA24}|StudyBaProject\\StudyBaProject.csproj|c:\\users\\korisnik\\desktop\\oooad2\\rk3\\studybaproject\\studybaproject\\models\\news.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AB3C94B-E256-4709-85B9-7818783BDA24}|StudyBaProject\\StudyBaProject.csproj|solutionrelative:studybaproject\\models\\news.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AB3C94B-E256-4709-85B9-7818783BDA24}|StudyBaProject\\StudyBaProject.csproj|c:\\users\\korisnik\\desktop\\oooad2\\rk3\\studybaproject\\studybaproject\\services\\newsscraperservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AB3C94B-E256-4709-85B9-7818783BDA24}|StudyBaProject\\StudyBaProject.csproj|solutionrelative:studybaproject\\services\\newsscraperservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AB3C94B-E256-4709-85B9-7818783BDA24}|StudyBaProject\\StudyBaProject.csproj|c:\\users\\korisnik\\desktop\\oooad2\\rk3\\studybaproject\\studybaproject\\services\\newsbackgroundservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AB3C94B-E256-4709-85B9-7818783BDA24}|StudyBaProject\\StudyBaProject.csproj|solutionrelative:studybaproject\\services\\newsbackgroundservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AB3C94B-E256-4709-85B9-7818783BDA24}|StudyBaProject\\StudyBaProject.csproj|c:\\users\\korisnik\\desktop\\oooad2\\rk3\\studybaproject\\studybaproject\\views\\admin\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3AB3C94B-E256-4709-85B9-7818783BDA24}|StudyBaProject\\StudyBaProject.csproj|solutionrelative:studybaproject\\views\\admin\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AB3C94B-E256-4709-85B9-7818783BDA24}|StudyBaProject\\StudyBaProject.csproj|c:\\users\\korisnik\\desktop\\oooad2\\rk3\\studybaproject\\studybaproject\\views\\tutor\\addsession.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3AB3C94B-E256-4709-85B9-7818783BDA24}|StudyBaProject\\StudyBaProject.csproj|solutionrelative:studybaproject\\views\\tutor\\addsession.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AB3C94B-E256-4709-85B9-7818783BDA24}|StudyBaProject\\StudyBaProject.csproj|c:\\users\\korisnik\\desktop\\oooad2\\rk3\\studybaproject\\studybaproject\\views\\departments\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3AB3C94B-E256-4709-85B9-7818783BDA24}|StudyBaProject\\StudyBaProject.csproj|solutionrelative:studybaproject\\views\\departments\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AB3C94B-E256-4709-85B9-7818783BDA24}|StudyBaProject\\StudyBaProject.csproj|c:\\users\\korisnik\\desktop\\oooad2\\rk3\\studybaproject\\studybaproject\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3AB3C94B-E256-4709-85B9-7818783BDA24}|StudyBaProject\\StudyBaProject.csproj|solutionrelative:studybaproject\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AB3C94B-E256-4709-85B9-7818783BDA24}|StudyBaProject\\StudyBaProject.csproj|c:\\users\\korisnik\\desktop\\oooad2\\rk3\\studybaproject\\studybaproject\\views\\faculties\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3AB3C94B-E256-4709-85B9-7818783BDA24}|StudyBaProject\\StudyBaProject.csproj|solutionrelative:studybaproject\\views\\faculties\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AB3C94B-E256-4709-85B9-7818783BDA24}|StudyBaProject\\StudyBaProject.csproj|c:\\users\\korisnik\\desktop\\oooad2\\rk3\\studybaproject\\studybaproject\\views\\tutor\\allsubjects.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3AB3C94B-E256-4709-85B9-7818783BDA24}|StudyBaProject\\StudyBaProject.csproj|solutionrelative:studybaproject\\views\\tutor\\allsubjects.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AB3C94B-E256-4709-85B9-7818783BDA24}|StudyBaProject\\StudyBaProject.csproj|c:\\users\\korisnik\\desktop\\oooad2\\rk3\\studybaproject\\studybaproject\\views\\users\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3AB3C94B-E256-4709-85B9-7818783BDA24}|StudyBaProject\\StudyBaProject.csproj|solutionrelative:studybaproject\\views\\users\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AB3C94B-E256-4709-85B9-7818783BDA24}|StudyBaProject\\StudyBaProject.csproj|c:\\users\\korisnik\\desktop\\oooad2\\rk3\\studybaproject\\studybaproject\\views\\tutor\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3AB3C94B-E256-4709-85B9-7818783BDA24}|StudyBaProject\\StudyBaProject.csproj|solutionrelative:studybaproject\\views\\tutor\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AB3C94B-E256-4709-85B9-7818783BDA24}|StudyBaProject\\StudyBaProject.csproj|c:\\users\\korisnik\\desktop\\oooad2\\rk3\\studybaproject\\studybaproject\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3AB3C94B-E256-4709-85B9-7818783BDA24}|StudyBaProject\\StudyBaProject.csproj|solutionrelative:studybaproject\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AB3C94B-E256-4709-85B9-7818783BDA24}|StudyBaProject\\StudyBaProject.csproj|c:\\users\\korisnik\\desktop\\oooad2\\rk3\\studybaproject\\studybaproject\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AB3C94B-E256-4709-85B9-7818783BDA24}|StudyBaProject\\StudyBaProject.csproj|solutionrelative:studybaproject\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AB3C94B-E256-4709-85B9-7818783BDA24}|StudyBaProject\\StudyBaProject.csproj|c:\\users\\korisnik\\desktop\\oooad2\\rk3\\studybaproject\\studybaproject\\models\\administratorsubject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AB3C94B-E256-4709-85B9-7818783BDA24}|StudyBaProject\\StudyBaProject.csproj|solutionrelative:studybaproject\\models\\administratorsubject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AB3C94B-E256-4709-85B9-7818783BDA24}|StudyBaProject\\StudyBaProject.csproj|c:\\users\\korisnik\\desktop\\oooad2\\rk3\\studybaproject\\studybaproject\\controllers\\facultiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AB3C94B-E256-4709-85B9-7818783BDA24}|StudyBaProject\\StudyBaProject.csproj|solutionrelative:studybaproject\\controllers\\facultiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AB3C94B-E256-4709-85B9-7818783BDA24}|StudyBaProject\\StudyBaProject.csproj|c:\\users\\korisnik\\desktop\\oooad2\\rk3\\studybaproject\\studybaproject\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AB3C94B-E256-4709-85B9-7818783BDA24}|StudyBaProject\\StudyBaProject.csproj|solutionrelative:studybaproject\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AB3C94B-E256-4709-85B9-7818783BDA24}|StudyBaProject\\StudyBaProject.csproj|c:\\users\\korisnik\\desktop\\oooad2\\rk3\\studybaproject\\studybaproject\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AB3C94B-E256-4709-85B9-7818783BDA24}|StudyBaProject\\StudyBaProject.csproj|solutionrelative:studybaproject\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AB3C94B-E256-4709-85B9-7818783BDA24}|StudyBaProject\\StudyBaProject.csproj|c:\\users\\korisnik\\desktop\\oooad2\\rk3\\studybaproject\\studybaproject\\views\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3AB3C94B-E256-4709-85B9-7818783BDA24}|StudyBaProject\\StudyBaProject.csproj|solutionrelative:studybaproject\\views\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AB3C94B-E256-4709-85B9-7818783BDA24}|StudyBaProject\\StudyBaProject.csproj|c:\\users\\korisnik\\desktop\\oooad2\\rk3\\studybaproject\\studybaproject\\views\\tutor\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3AB3C94B-E256-4709-85B9-7818783BDA24}|StudyBaProject\\StudyBaProject.csproj|solutionrelative:studybaproject\\views\\tutor\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AB3C94B-E256-4709-85B9-7818783BDA24}|StudyBaProject\\StudyBaProject.csproj|c:\\users\\korisnik\\desktop\\oooad2\\rk3\\studybaproject\\studybaproject\\views\\tutor\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3AB3C94B-E256-4709-85B9-7818783BDA24}|StudyBaProject\\StudyBaProject.csproj|solutionrelative:studybaproject\\views\\tutor\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AB3C94B-E256-4709-85B9-7818783BDA24}|StudyBaProject\\StudyBaProject.csproj|c:\\users\\korisnik\\desktop\\oooad2\\rk3\\studybaproject\\studybaproject\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3AB3C94B-E256-4709-85B9-7818783BDA24}|StudyBaProject\\StudyBaProject.csproj|solutionrelative:studybaproject\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AB3C94B-E256-4709-85B9-7818783BDA24}|StudyBaProject\\StudyBaProject.csproj|c:\\users\\korisnik\\desktop\\oooad2\\rk3\\studybaproject\\studybaproject\\areas\\identity\\pages\\account\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3AB3C94B-E256-4709-85B9-7818783BDA24}|StudyBaProject\\StudyBaProject.csproj|solutionrelative:studybaproject\\areas\\identity\\pages\\account\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AB3C94B-E256-4709-85B9-7818783BDA24}|StudyBaProject\\StudyBaProject.csproj|c:\\users\\korisnik\\desktop\\oooad2\\rk3\\studybaproject\\studybaproject\\areas\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3AB3C94B-E256-4709-85B9-7818783BDA24}|StudyBaProject\\StudyBaProject.csproj|solutionrelative:studybaproject\\areas\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AB3C94B-E256-4709-85B9-7818783BDA24}|StudyBaProject\\StudyBaProject.csproj|c:\\users\\korisnik\\desktop\\oooad2\\rk3\\studybaproject\\studybaproject\\areas\\identity\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3AB3C94B-E256-4709-85B9-7818783BDA24}|StudyBaProject\\StudyBaProject.csproj|solutionrelative:studybaproject\\areas\\identity\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AB3C94B-E256-4709-85B9-7818783BDA24}|StudyBaProject\\StudyBaProject.csproj|c:\\users\\korisnik\\desktop\\oooad2\\rk3\\studybaproject\\studybaproject\\views\\student\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3AB3C94B-E256-4709-85B9-7818783BDA24}|StudyBaProject\\StudyBaProject.csproj|solutionrelative:studybaproject\\views\\student\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AB3C94B-E256-4709-85B9-7818783BDA24}|StudyBaProject\\StudyBaProject.csproj|c:\\users\\korisnik\\desktop\\oooad2\\rk3\\studybaproject\\studybaproject\\views\\student\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3AB3C94B-E256-4709-85B9-7818783BDA24}|StudyBaProject\\StudyBaProject.csproj|solutionrelative:studybaproject\\views\\student\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AB3C94B-E256-4709-85B9-7818783BDA24}|StudyBaProject\\StudyBaProject.csproj|c:\\users\\korisnik\\desktop\\oooad2\\rk3\\studybaproject\\studybaproject\\views\\tutorsubjects\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3AB3C94B-E256-4709-85B9-7818783BDA24}|StudyBaProject\\StudyBaProject.csproj|solutionrelative:studybaproject\\views\\tutorsubjects\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AB3C94B-E256-4709-85B9-7818783BDA24}|StudyBaProject\\StudyBaProject.csproj|c:\\users\\korisnik\\desktop\\oooad2\\rk3\\studybaproject\\studybaproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3AB3C94B-E256-4709-85B9-7818783BDA24}|StudyBaProject\\StudyBaProject.csproj|solutionrelative:studybaproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AB3C94B-E256-4709-85B9-7818783BDA24}|StudyBaProject\\StudyBaProject.csproj|c:\\users\\korisnik\\desktop\\oooad2\\rk3\\studybaproject\\studybaproject\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3AB3C94B-E256-4709-85B9-7818783BDA24}|StudyBaProject\\StudyBaProject.csproj|solutionrelative:studybaproject\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AB3C94B-E256-4709-85B9-7818783BDA24}|StudyBaProject\\StudyBaProject.csproj|c:\\users\\korisnik\\desktop\\oooad2\\rk3\\studybaproject\\studybaproject\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3AB3C94B-E256-4709-85B9-7818783BDA24}|StudyBaProject\\StudyBaProject.csproj|solutionrelative:studybaproject\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Search.cshtml",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\Desktop\\oooad2\\RK3\\StudyBaProject\\StudyBaProject\\Views\\Home\\Search.cshtml",
+              "RelativeDocumentMoniker": "StudyBaProject\\Views\\Home\\Search.cshtml",
+              "ToolTip": "C:\\Users\\Korisnik\\Desktop\\oooad2\\RK3\\StudyBaProject\\StudyBaProject\\Views\\Home\\Search.cshtml",
+              "RelativeToolTip": "StudyBaProject\\Views\\Home\\Search.cshtml",
+              "ViewState": "AQIAACYAAAAAAAAAAAAmwEsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-13T23:37:31.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\Desktop\\oooad2\\RK3\\StudyBaProject\\StudyBaProject\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "StudyBaProject\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\Desktop\\oooad2\\RK3\\StudyBaProject\\StudyBaProject\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeToolTip": "StudyBaProject\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ViewState": "AQIAAH8AAAAAAAAAAAAIwJkAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T17:47:28.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\Desktop\\oooad2\\RK3\\StudyBaProject\\StudyBaProject\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "StudyBaProject\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\Desktop\\oooad2\\RK3\\StudyBaProject\\StudyBaProject\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "StudyBaProject\\Controllers\\UsersController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAzwCsAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T23:06:16.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\Desktop\\oooad2\\RK3\\StudyBaProject\\StudyBaProject\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "StudyBaProject\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\Korisnik\\Desktop\\oooad2\\RK3\\StudyBaProject\\StudyBaProject\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "StudyBaProject\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AQIAADwAAAAAAAAAAAAAAFgAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-10T10:59:48.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\Desktop\\oooad2\\RK3\\StudyBaProject\\StudyBaProject\\Models\\User.cs",
+              "RelativeDocumentMoniker": "StudyBaProject\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\Desktop\\oooad2\\RK3\\StudyBaProject\\StudyBaProject\\Models\\User.cs",
+              "RelativeToolTip": "StudyBaProject\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T12:25:21.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\Desktop\\oooad2\\RK3\\StudyBaProject\\StudyBaProject\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "StudyBaProject\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\Desktop\\oooad2\\RK3\\StudyBaProject\\StudyBaProject\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "StudyBaProject\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAA1wDgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T21:28:59.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\Desktop\\oooad2\\RK3\\StudyBaProject\\StudyBaProject\\Views\\News\\Index.cshtml",
+              "RelativeDocumentMoniker": "StudyBaProject\\Views\\News\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Korisnik\\Desktop\\oooad2\\RK3\\StudyBaProject\\StudyBaProject\\Views\\News\\Index.cshtml",
+              "RelativeToolTip": "StudyBaProject\\Views\\News\\Index.cshtml",
+              "ViewState": "AQIAAF8AAAAAAAAAAAAmwHgAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-11T10:46:27.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NewsController.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\Desktop\\oooad2\\RK3\\StudyBaProject\\StudyBaProject\\Controllers\\NewsController.cs",
+              "RelativeDocumentMoniker": "StudyBaProject\\Controllers\\NewsController.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\Desktop\\oooad2\\RK3\\StudyBaProject\\StudyBaProject\\Controllers\\NewsController.cs",
+              "RelativeToolTip": "StudyBaProject\\Controllers\\NewsController.cs",
+              "ViewState": "AQIAAHoAAAAAAAAAAAAcwJ0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T22:38:52.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProfileTutor.cshtml",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\Desktop\\oooad2\\RK3\\StudyBaProject\\StudyBaProject\\Views\\Tutor\\ProfileTutor.cshtml",
+              "RelativeDocumentMoniker": "StudyBaProject\\Views\\Tutor\\ProfileTutor.cshtml",
+              "ToolTip": "C:\\Users\\Korisnik\\Desktop\\oooad2\\RK3\\StudyBaProject\\StudyBaProject\\Views\\Tutor\\ProfileTutor.cshtml",
+              "RelativeToolTip": "StudyBaProject\\Views\\Tutor\\ProfileTutor.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAmwIgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-10T15:25:37.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\Desktop\\oooad2\\RK3\\StudyBaProject\\StudyBaProject\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "StudyBaProject\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Korisnik\\Desktop\\oooad2\\RK3\\StudyBaProject\\StudyBaProject\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "StudyBaProject\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAADQAAAAAAAAAAAAmwFIAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-06T21:21:12.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\Desktop\\oooad2\\RK3\\StudyBaProject\\StudyBaProject\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "StudyBaProject\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\Desktop\\oooad2\\RK3\\StudyBaProject\\StudyBaProject\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeToolTip": "StudyBaProject\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAIYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T23:12:48.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\Desktop\\oooad2\\RK3\\StudyBaProject\\StudyBaProject\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "StudyBaProject\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Korisnik\\Desktop\\oooad2\\RK3\\StudyBaProject\\StudyBaProject\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "StudyBaProject\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AQIAADAAAAAAAAAAAAAYwFYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-10T23:13:56.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\Desktop\\oooad2\\RK3\\StudyBaProject\\StudyBaProject\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "StudyBaProject\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Korisnik\\Desktop\\oooad2\\RK3\\StudyBaProject\\StudyBaProject\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "StudyBaProject\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAA8AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-10T22:15:15.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TutorController.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\Desktop\\oooad2\\RK3\\StudyBaProject\\StudyBaProject\\Controllers\\TutorController.cs",
+              "RelativeDocumentMoniker": "StudyBaProject\\Controllers\\TutorController.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\Desktop\\oooad2\\RK3\\StudyBaProject\\StudyBaProject\\Controllers\\TutorController.cs",
+              "RelativeToolTip": "StudyBaProject\\Controllers\\TutorController.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAmwDIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T22:28:36.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\Desktop\\oooad2\\RK3\\StudyBaProject\\StudyBaProject\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "StudyBaProject\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\Desktop\\oooad2\\RK3\\StudyBaProject\\StudyBaProject\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "StudyBaProject\\Controllers\\StudentController.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAA6wDgAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T23:28:14.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ProfileStudent.cshtml",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\Desktop\\oooad2\\RK3\\StudyBaProject\\StudyBaProject\\Views\\Student\\ProfileStudent.cshtml",
+              "RelativeDocumentMoniker": "StudyBaProject\\Views\\Student\\ProfileStudent.cshtml",
+              "ToolTip": "C:\\Users\\Korisnik\\Desktop\\oooad2\\RK3\\StudyBaProject\\StudyBaProject\\Views\\Student\\ProfileStudent.cshtml",
+              "RelativeToolTip": "StudyBaProject\\Views\\Student\\ProfileStudent.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-10T23:04:50.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "SessionRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\Desktop\\oooad2\\RK3\\StudyBaProject\\StudyBaProject\\Models\\SessionRequest.cs",
+              "RelativeDocumentMoniker": "StudyBaProject\\Models\\SessionRequest.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\Desktop\\oooad2\\RK3\\StudyBaProject\\StudyBaProject\\Models\\SessionRequest.cs",
+              "RelativeToolTip": "StudyBaProject\\Models\\SessionRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T21:15:36.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\Desktop\\oooad2\\RK3\\StudyBaProject\\StudyBaProject\\Views\\TutorSubjects\\Details.cshtml",
+              "RelativeDocumentMoniker": "StudyBaProject\\Views\\TutorSubjects\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Korisnik\\Desktop\\oooad2\\RK3\\StudyBaProject\\StudyBaProject\\Views\\TutorSubjects\\Details.cshtml",
+              "RelativeToolTip": "StudyBaProject\\Views\\TutorSubjects\\Details.cshtml",
+              "ViewState": "AQIAAG0BAAAAAAAAAAAmwH0BAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-10T15:29:27.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "TutorSubjectsController.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\Desktop\\oooad2\\RK3\\StudyBaProject\\StudyBaProject\\Controllers\\TutorSubjectsController.cs",
+              "RelativeDocumentMoniker": "StudyBaProject\\Controllers\\TutorSubjectsController.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\Desktop\\oooad2\\RK3\\StudyBaProject\\StudyBaProject\\Controllers\\TutorSubjectsController.cs",
+              "RelativeToolTip": "StudyBaProject\\Controllers\\TutorSubjectsController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAADEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T12:19:07.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Location.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\Desktop\\oooad2\\RK3\\StudyBaProject\\StudyBaProject\\Models\\Location.cs",
+              "RelativeDocumentMoniker": "StudyBaProject\\Models\\Location.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\Desktop\\oooad2\\RK3\\StudyBaProject\\StudyBaProject\\Models\\Location.cs",
+              "RelativeToolTip": "StudyBaProject\\Models\\Location.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAIwAgAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T22:55:52.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "NewsKeyword.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\Desktop\\oooad2\\RK3\\StudyBaProject\\StudyBaProject\\Models\\NewsKeyword.cs",
+              "RelativeDocumentMoniker": "StudyBaProject\\Models\\NewsKeyword.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\Desktop\\oooad2\\RK3\\StudyBaProject\\StudyBaProject\\Models\\NewsKeyword.cs",
+              "RelativeToolTip": "StudyBaProject\\Models\\NewsKeyword.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T20:43:32.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\Desktop\\oooad2\\RK3\\StudyBaProject\\StudyBaProject\\Views\\Tutor\\Details.cshtml",
+              "RelativeDocumentMoniker": "StudyBaProject\\Views\\Tutor\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Korisnik\\Desktop\\oooad2\\RK3\\StudyBaProject\\StudyBaProject\\Views\\Tutor\\Details.cshtml",
+              "RelativeToolTip": "StudyBaProject\\Views\\Tutor\\Details.cshtml",
+              "ViewState": "AQIAABwAAAAAAAAAAAAiwDsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-06T12:57:29.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\Desktop\\oooad2\\RK3\\StudyBaProject\\StudyBaProject\\Program.cs",
+              "RelativeDocumentMoniker": "StudyBaProject\\Program.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\Desktop\\oooad2\\RK3\\StudyBaProject\\StudyBaProject\\Program.cs",
+              "RelativeToolTip": "StudyBaProject\\Program.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABAAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T22:14:18.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "StudyBaProject.csproj",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\Desktop\\oooad2\\RK3\\StudyBaProject\\StudyBaProject\\StudyBaProject.csproj",
+              "RelativeDocumentMoniker": "StudyBaProject\\StudyBaProject.csproj",
+              "ToolTip": "C:\\Users\\Korisnik\\Desktop\\oooad2\\RK3\\StudyBaProject\\StudyBaProject\\StudyBaProject.csproj",
+              "RelativeToolTip": "StudyBaProject\\StudyBaProject.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-11T09:55:59.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\Desktop\\oooad2\\RK3\\StudyBaProject\\StudyBaProject\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "StudyBaProject\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\Desktop\\oooad2\\RK3\\StudyBaProject\\StudyBaProject\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "StudyBaProject\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAswDQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T16:36:51.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Review.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\Desktop\\oooad2\\RK3\\StudyBaProject\\StudyBaProject\\Models\\Review.cs",
+              "RelativeDocumentMoniker": "StudyBaProject\\Models\\Review.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\Desktop\\oooad2\\RK3\\StudyBaProject\\StudyBaProject\\Models\\Review.cs",
+              "RelativeToolTip": "StudyBaProject\\Models\\Review.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T22:19:58.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\Desktop\\oooad2\\RK3\\StudyBaProject\\StudyBaProject\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "StudyBaProject\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Korisnik\\Desktop\\oooad2\\RK3\\StudyBaProject\\StudyBaProject\\appsettings.Development.json",
+              "RelativeToolTip": "StudyBaProject\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-13T22:14:10.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Message.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\Desktop\\oooad2\\RK3\\StudyBaProject\\StudyBaProject\\Models\\Message.cs",
+              "RelativeDocumentMoniker": "StudyBaProject\\Models\\Message.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\Desktop\\oooad2\\RK3\\StudyBaProject\\StudyBaProject\\Models\\Message.cs",
+              "RelativeToolTip": "StudyBaProject\\Models\\Message.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T20:43:22.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Session.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\Desktop\\oooad2\\RK3\\StudyBaProject\\StudyBaProject\\Models\\Session.cs",
+              "RelativeDocumentMoniker": "StudyBaProject\\Models\\Session.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\Desktop\\oooad2\\RK3\\StudyBaProject\\StudyBaProject\\Models\\Session.cs",
+              "RelativeToolTip": "StudyBaProject\\Models\\Session.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T16:37:19.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\Desktop\\oooad2\\RK3\\StudyBaProject\\StudyBaProject\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "StudyBaProject\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\Desktop\\oooad2\\RK3\\StudyBaProject\\StudyBaProject\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "StudyBaProject\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T22:56:22.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\Desktop\\oooad2\\RK3\\StudyBaProject\\StudyBaProject\\Views\\TutorSubjects\\Index.cshtml",
+              "RelativeDocumentMoniker": "StudyBaProject\\Views\\TutorSubjects\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Korisnik\\Desktop\\oooad2\\RK3\\StudyBaProject\\StudyBaProject\\Views\\TutorSubjects\\Index.cshtml",
+              "RelativeToolTip": "StudyBaProject\\Views\\TutorSubjects\\Index.cshtml",
+              "ViewState": "AQIAAGAAAAAAAAAAAAAmwHEAAABcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-10T15:26:03.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\Desktop\\oooad2\\RK3\\StudyBaProject\\StudyBaProject\\Views\\Subjects\\Index.cshtml",
+              "RelativeDocumentMoniker": "StudyBaProject\\Views\\Subjects\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Korisnik\\Desktop\\oooad2\\RK3\\StudyBaProject\\StudyBaProject\\Views\\Subjects\\Index.cshtml",
+              "RelativeToolTip": "StudyBaProject\\Views\\Subjects\\Index.cshtml",
+              "ViewState": "AQIAACsAAAAAAAAAAABBwAoAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-06T13:43:19.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "UserNews.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\Desktop\\oooad2\\RK3\\StudyBaProject\\StudyBaProject\\Models\\UserNews.cs",
+              "RelativeDocumentMoniker": "StudyBaProject\\Models\\UserNews.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\Desktop\\oooad2\\RK3\\StudyBaProject\\StudyBaProject\\Models\\UserNews.cs",
+              "RelativeToolTip": "StudyBaProject\\Models\\UserNews.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T10:53:44.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "TutorSubject.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\Desktop\\oooad2\\RK3\\StudyBaProject\\StudyBaProject\\Models\\TutorSubject.cs",
+              "RelativeDocumentMoniker": "StudyBaProject\\Models\\TutorSubject.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\Desktop\\oooad2\\RK3\\StudyBaProject\\StudyBaProject\\Models\\TutorSubject.cs",
+              "RelativeToolTip": "StudyBaProject\\Models\\TutorSubject.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T15:26:15.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "News.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\Desktop\\oooad2\\RK3\\StudyBaProject\\StudyBaProject\\Models\\News.cs",
+              "RelativeDocumentMoniker": "StudyBaProject\\Models\\News.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\Desktop\\oooad2\\RK3\\StudyBaProject\\StudyBaProject\\Models\\News.cs",
+              "RelativeToolTip": "StudyBaProject\\Models\\News.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T20:43:21.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "NewsScraperService.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\Desktop\\oooad2\\RK3\\StudyBaProject\\StudyBaProject\\Services\\NewsScraperService.cs",
+              "RelativeDocumentMoniker": "StudyBaProject\\Services\\NewsScraperService.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\Desktop\\oooad2\\RK3\\StudyBaProject\\StudyBaProject\\Services\\NewsScraperService.cs",
+              "RelativeToolTip": "StudyBaProject\\Services\\NewsScraperService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T10:00:29.08Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "NewsBackgroundService.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\Desktop\\oooad2\\RK3\\StudyBaProject\\StudyBaProject\\Services\\NewsBackgroundService.cs",
+              "RelativeDocumentMoniker": "StudyBaProject\\Services\\NewsBackgroundService.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\Desktop\\oooad2\\RK3\\StudyBaProject\\StudyBaProject\\Services\\NewsBackgroundService.cs",
+              "RelativeToolTip": "StudyBaProject\\Services\\NewsBackgroundService.cs",
+              "ViewState": "AQIAAFoAAAAAAAAAAAAgwGsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T10:13:27.542Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Dashboard.cshtml",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\Desktop\\oooad2\\RK3\\StudyBaProject\\StudyBaProject\\Views\\Admin\\Dashboard.cshtml",
+              "RelativeDocumentMoniker": "StudyBaProject\\Views\\Admin\\Dashboard.cshtml",
+              "ToolTip": "C:\\Users\\Korisnik\\Desktop\\oooad2\\RK3\\StudyBaProject\\StudyBaProject\\Views\\Admin\\Dashboard.cshtml",
+              "RelativeToolTip": "StudyBaProject\\Views\\Admin\\Dashboard.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-10T23:07:10.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "AddSession.cshtml",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\Desktop\\oooad2\\RK3\\StudyBaProject\\StudyBaProject\\Views\\Tutor\\AddSession.cshtml",
+              "RelativeDocumentMoniker": "StudyBaProject\\Views\\Tutor\\AddSession.cshtml",
+              "ToolTip": "C:\\Users\\Korisnik\\Desktop\\oooad2\\RK3\\StudyBaProject\\StudyBaProject\\Views\\Tutor\\AddSession.cshtml",
+              "RelativeToolTip": "StudyBaProject\\Views\\Tutor\\AddSession.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-10T16:41:11.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\Desktop\\oooad2\\RK3\\StudyBaProject\\StudyBaProject\\Views\\Departments\\Index.cshtml",
+              "RelativeDocumentMoniker": "StudyBaProject\\Views\\Departments\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Korisnik\\Desktop\\oooad2\\RK3\\StudyBaProject\\StudyBaProject\\Views\\Departments\\Index.cshtml",
+              "RelativeToolTip": "StudyBaProject\\Views\\Departments\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAkwA4AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-10T23:03:08.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\Desktop\\oooad2\\RK3\\StudyBaProject\\StudyBaProject\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "StudyBaProject\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\Korisnik\\Desktop\\oooad2\\RK3\\StudyBaProject\\StudyBaProject\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "StudyBaProject\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-06T21:24:34.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\Desktop\\oooad2\\RK3\\StudyBaProject\\StudyBaProject\\Views\\Faculties\\Index.cshtml",
+              "RelativeDocumentMoniker": "StudyBaProject\\Views\\Faculties\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Korisnik\\Desktop\\oooad2\\RK3\\StudyBaProject\\StudyBaProject\\Views\\Faculties\\Index.cshtml",
+              "RelativeToolTip": "StudyBaProject\\Views\\Faculties\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-06T12:58:11.123Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "AllSubjects.cshtml",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\Desktop\\oooad2\\RK3\\StudyBaProject\\StudyBaProject\\Views\\Tutor\\AllSubjects.cshtml",
+              "RelativeDocumentMoniker": "StudyBaProject\\Views\\Tutor\\AllSubjects.cshtml",
+              "ToolTip": "C:\\Users\\Korisnik\\Desktop\\oooad2\\RK3\\StudyBaProject\\StudyBaProject\\Views\\Tutor\\AllSubjects.cshtml",
+              "RelativeToolTip": "StudyBaProject\\Views\\Tutor\\AllSubjects.cshtml",
+              "ViewState": "AQIAADoAAAAAAAAAAAAuwEsAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-10T15:39:16.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Profile.cshtml",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\Desktop\\oooad2\\RK3\\StudyBaProject\\StudyBaProject\\Views\\Users\\Profile.cshtml",
+              "RelativeDocumentMoniker": "StudyBaProject\\Views\\Users\\Profile.cshtml",
+              "ToolTip": "C:\\Users\\Korisnik\\Desktop\\oooad2\\RK3\\StudyBaProject\\StudyBaProject\\Views\\Users\\Profile.cshtml",
+              "RelativeToolTip": "StudyBaProject\\Views\\Users\\Profile.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-10T10:36:25.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\Desktop\\oooad2\\RK3\\StudyBaProject\\StudyBaProject\\Views\\Tutor\\Index.cshtml",
+              "RelativeDocumentMoniker": "StudyBaProject\\Views\\Tutor\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Korisnik\\Desktop\\oooad2\\RK3\\StudyBaProject\\StudyBaProject\\Views\\Tutor\\Index.cshtml",
+              "RelativeToolTip": "StudyBaProject\\Views\\Tutor\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEcAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-06T12:57:25.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\Desktop\\oooad2\\RK3\\StudyBaProject\\StudyBaProject\\Views\\Student\\Index.cshtml",
+              "RelativeDocumentMoniker": "StudyBaProject\\Views\\Student\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Korisnik\\Desktop\\oooad2\\RK3\\StudyBaProject\\StudyBaProject\\Views\\Student\\Index.cshtml",
+              "RelativeToolTip": "StudyBaProject\\Views\\Student\\Index.cshtml",
+              "ViewState": "AQIAADYAAAAAAAAAAIAwwEcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-06T18:55:21.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\Desktop\\oooad2\\RK3\\StudyBaProject\\StudyBaProject\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "StudyBaProject\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\Desktop\\oooad2\\RK3\\StudyBaProject\\StudyBaProject\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "StudyBaProject\\Controllers\\AdminController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T10:35:40.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "AdministratorSubject.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\Desktop\\oooad2\\RK3\\StudyBaProject\\StudyBaProject\\Models\\AdministratorSubject.cs",
+              "RelativeDocumentMoniker": "StudyBaProject\\Models\\AdministratorSubject.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\Desktop\\oooad2\\RK3\\StudyBaProject\\StudyBaProject\\Models\\AdministratorSubject.cs",
+              "RelativeToolTip": "StudyBaProject\\Models\\AdministratorSubject.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T22:55:03.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "FacultiesController.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\Desktop\\oooad2\\RK3\\StudyBaProject\\StudyBaProject\\Controllers\\FacultiesController.cs",
+              "RelativeDocumentMoniker": "StudyBaProject\\Controllers\\FacultiesController.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\Desktop\\oooad2\\RK3\\StudyBaProject\\StudyBaProject\\Controllers\\FacultiesController.cs",
+              "RelativeToolTip": "StudyBaProject\\Controllers\\FacultiesController.cs",
+              "ViewState": "AQIAAIsAAAAAAAAAAAAwwJwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T22:38:49.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "DepartmentsController.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\Desktop\\oooad2\\RK3\\StudyBaProject\\StudyBaProject\\Controllers\\DepartmentsController.cs",
+              "RelativeDocumentMoniker": "StudyBaProject\\Controllers\\DepartmentsController.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\Desktop\\oooad2\\RK3\\StudyBaProject\\StudyBaProject\\Controllers\\DepartmentsController.cs",
+              "RelativeToolTip": "StudyBaProject\\Controllers\\DepartmentsController.cs",
+              "ViewState": "AQIAAKAAAAAAAAAAAAAswLkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T17:58:25.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\Desktop\\oooad2\\RK3\\StudyBaProject\\StudyBaProject\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "StudyBaProject\\Models\\Department.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\Desktop\\oooad2\\RK3\\StudyBaProject\\StudyBaProject\\Models\\Department.cs",
+              "RelativeToolTip": "StudyBaProject\\Models\\Department.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T22:56:18.285Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\Desktop\\oooad2\\RK3\\StudyBaProject\\StudyBaProject\\Views\\Users\\Index.cshtml",
+              "RelativeDocumentMoniker": "StudyBaProject\\Views\\Users\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Korisnik\\Desktop\\oooad2\\RK3\\StudyBaProject\\StudyBaProject\\Views\\Users\\Index.cshtml",
+              "RelativeToolTip": "StudyBaProject\\Views\\Users\\Index.cshtml",
+              "ViewState": "AQIAAC0AAAAAAAAAAADwv00AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-10T09:39:39.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\Desktop\\oooad2\\RK3\\StudyBaProject\\StudyBaProject\\Views\\Tutor\\Edit.cshtml",
+              "RelativeDocumentMoniker": "StudyBaProject\\Views\\Tutor\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Korisnik\\Desktop\\oooad2\\RK3\\StudyBaProject\\StudyBaProject\\Views\\Tutor\\Edit.cshtml",
+              "RelativeToolTip": "StudyBaProject\\Views\\Tutor\\Edit.cshtml",
+              "ViewState": "AQIAAC8AAAAAAAAAAADwv0AAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-09T22:47:49.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\Desktop\\oooad2\\RK3\\StudyBaProject\\StudyBaProject\\Views\\Tutor\\Delete.cshtml",
+              "RelativeDocumentMoniker": "StudyBaProject\\Views\\Tutor\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Korisnik\\Desktop\\oooad2\\RK3\\StudyBaProject\\StudyBaProject\\Views\\Tutor\\Delete.cshtml",
+              "RelativeToolTip": "StudyBaProject\\Views\\Tutor\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-06T12:57:28.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\Desktop\\oooad2\\RK3\\StudyBaProject\\StudyBaProject\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "StudyBaProject\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\Korisnik\\Desktop\\oooad2\\RK3\\StudyBaProject\\StudyBaProject\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "StudyBaProject\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-10T00:31:49.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\Desktop\\oooad2\\RK3\\StudyBaProject\\StudyBaProject\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "StudyBaProject\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Korisnik\\Desktop\\oooad2\\RK3\\StudyBaProject\\StudyBaProject\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
+              "RelativeToolTip": "StudyBaProject\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-10T00:25:46.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\Desktop\\oooad2\\RK3\\StudyBaProject\\StudyBaProject\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "StudyBaProject\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Korisnik\\Desktop\\oooad2\\RK3\\StudyBaProject\\StudyBaProject\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "RelativeToolTip": "StudyBaProject\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-09T23:42:51.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\Desktop\\oooad2\\RK3\\StudyBaProject\\StudyBaProject\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "StudyBaProject\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Korisnik\\Desktop\\oooad2\\RK3\\StudyBaProject\\StudyBaProject\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "RelativeToolTip": "StudyBaProject\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-09T23:42:59.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\Desktop\\oooad2\\RK3\\StudyBaProject\\StudyBaProject\\Views\\Student\\Edit.cshtml",
+              "RelativeDocumentMoniker": "StudyBaProject\\Views\\Student\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Korisnik\\Desktop\\oooad2\\RK3\\StudyBaProject\\StudyBaProject\\Views\\Student\\Edit.cshtml",
+              "RelativeToolTip": "StudyBaProject\\Views\\Student\\Edit.cshtml",
+              "ViewState": "AQIAACAAAAAAAAAAAADwv0AAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-09T22:48:03.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\Desktop\\oooad2\\RK3\\StudyBaProject\\StudyBaProject\\Views\\Student\\Delete.cshtml",
+              "RelativeDocumentMoniker": "StudyBaProject\\Views\\Student\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Korisnik\\Desktop\\oooad2\\RK3\\StudyBaProject\\StudyBaProject\\Views\\Student\\Delete.cshtml",
+              "RelativeToolTip": "StudyBaProject\\Views\\Student\\Delete.cshtml",
+              "ViewState": "AQIAAC4AAAAAAAAAAADwvz8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-09T22:47:39.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\Desktop\\oooad2\\RK3\\StudyBaProject\\StudyBaProject\\Views\\TutorSubjects\\Edit.cshtml",
+              "RelativeDocumentMoniker": "StudyBaProject\\Views\\TutorSubjects\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Korisnik\\Desktop\\oooad2\\RK3\\StudyBaProject\\StudyBaProject\\Views\\TutorSubjects\\Edit.cshtml",
+              "RelativeToolTip": "StudyBaProject\\Views\\TutorSubjects\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-06T18:59:08.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\Desktop\\oooad2\\RK3\\StudyBaProject\\StudyBaProject\\appsettings.json",
+              "RelativeDocumentMoniker": "StudyBaProject\\appsettings.json",
+              "ToolTip": "C:\\Users\\Korisnik\\Desktop\\oooad2\\RK3\\StudyBaProject\\StudyBaProject\\appsettings.json",
+              "RelativeToolTip": "StudyBaProject\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-09T17:03:56.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\Desktop\\oooad2\\RK3\\StudyBaProject\\StudyBaProject\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "StudyBaProject\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Korisnik\\Desktop\\oooad2\\RK3\\StudyBaProject\\StudyBaProject\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "StudyBaProject\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-06T22:06:36.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\Desktop\\oooad2\\RK3\\StudyBaProject\\StudyBaProject\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "StudyBaProject\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Korisnik\\Desktop\\oooad2\\RK3\\StudyBaProject\\StudyBaProject\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "StudyBaProject\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-06T22:06:35.27Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

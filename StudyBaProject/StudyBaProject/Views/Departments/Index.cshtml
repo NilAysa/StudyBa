@@ -1,0 +1,65 @@
+﻿@model IEnumerable<StudyBa.Models.Department>
+@{
+    ViewData["Title"] = "Departments";
+}
+
+<!DOCTYPE html>
+<html lang="ba">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewData["Title"]</title>
+    <style>
+        .container {
+            width: 100%;
+            margin-top: 40px;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+
+        th, td {
+            padding: 12px; /* Povećajte razmak za bolju čitljivost */
+            text-align: left;
+            border-bottom: 1px solid #ddd;
+            font-size: 30px; /* Uvećajte font na 20 piksela */
+        }
+
+        th {
+            background-color: #f2f2f2;
+        }
+
+        .department-link {
+            text-decoration: none; /* Ukloni podcrtavanje */
+            color: inherit; /* Naslijedi boju teksta */
+        }
+    </style>
+</head>
+<body>
+    <h1>@ViewData["Title"]</h1>
+    <div class="container">
+        <table>
+            <thead>
+                <tr>
+                    <th>Izaberi smjer:</th>
+                    <th></th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var department in Model)
+                {
+                    <tr>
+                        <td class="department-item">
+                            <a class="department-link" asp-action="Subjects" asp-controller="Subjects" asp-route-id="@department.DepartmentId">
+                                @department.DepartmentName
+                            </a>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</body>
+</html>

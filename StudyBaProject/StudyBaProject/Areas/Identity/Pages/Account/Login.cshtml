@@ -1,0 +1,86 @@
+﻿@page
+@model LoginModel
+
+@{
+    ViewData["Title"] = "Log in";
+}
+
+<style>
+    body {
+        background-color: #f8f9fa; /* Promjena boje pozadine */
+    }
+
+    .container {
+        max-width: 500px; /* Povećana širina */
+        background-color: white;
+        padding: 30px;
+        border-radius: 10px;
+        box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.1);
+    }
+
+    .form-group label {
+        font-weight: bold;
+    }
+
+    .input-group-text {
+        background-color: #D5A6BD; /* Promjena boje pozadine ikonice */
+        color: white;
+        border: none;
+    }
+
+    .btn-primary {
+        background-color: #D5A6BD; /* Promjena boje pozadine gumba */
+        border: none;
+        margin-top: 15px; /* Dodatak margine na vrhu */
+    }
+
+        .btn-primary:hover {
+            background-color: #C77CA6; /* Promjena boje pozadine gumba na hover */
+        }
+
+    h1, h4 {
+        color: #343a40; /* Promjena boje naslova */
+    }
+
+    /* Stil za polja unosa */
+    .form-control {
+        margin-bottom: 15px; /* Razmak između polja unosa */
+    }
+</style>
+
+<div class="container mt-5">
+    <h1>@ViewData["Title"]</h1>
+    <div class="row">
+        <div class="col-md-10">
+            <!-- Povećana širina forme -->
+            <section>
+                <form id="account" method="post">
+                    <hr />
+                    <div asp-validation-summary="ModelOnly" class="text-danger" role="alert"></div>
+                    <div class="form-group">
+                        <label asp-for="Input.Email" class="control-label">Email</label>
+                        <input asp-for="Input.Email" class="form-control" autocomplete="username" aria-required="true" placeholder="name@example.com" />
+                        <span asp-validation-for="Input.Email" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="Input.Password" class="control-label">Password</label>
+                        <input asp-for="Input.Password" class="form-control" autocomplete="current-password" aria-required="true" placeholder="password" />
+                        <span asp-validation-for="Input.Password" class="text-danger"></span>
+                    </div>
+                    <div class="form-group form-check">
+                        <input class="form-check-input" asp-for="Input.RememberMe" />
+                        <label class="form-check-label" asp-for="Input.RememberMe">Remember me</label>
+                        <span asp-validation-for="Input.RememberMe" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <button id="login-submit" type="submit" class="w-100 btn btn-lg btn-primary">Log in</button>
+                    </div>
+                </form>
+            </section>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

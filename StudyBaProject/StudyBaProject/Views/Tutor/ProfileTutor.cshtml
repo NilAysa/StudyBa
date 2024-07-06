@@ -1,0 +1,136 @@
+﻿@model StudyBa.Models.User
+
+@{
+    ViewData["Title"] = "Profile";
+}
+
+<style>
+    .profile-btn {
+        width: 37%;
+        margin-bottom: 10px;
+    }
+
+    .section-title {
+        margin-bottom: 20px;
+    }
+
+    .section-content {
+        margin-bottom: 60px; /* Increased margin for more space */
+    }
+
+    .profile-section {
+        margin-bottom: 30px; /* Extra margin between profile sections */
+    }
+
+    .vertical-spacing {
+        margin-bottom: 70px; /* Additional spacing for vertical separation */
+    }
+</style>
+
+<div class="container mt-5 pt-5">
+    <div class="row">
+        <div class="col-md-4 text-center">
+            <img src="~/avatar/@(Model.Avatar).jpg" alt="Profile Picture" class="img-fluid rounded-circle mb-4" style="max-width: 250px; height: auto;" />
+            <div class="d-flex justify-content-center mb-4">
+                <a asp-action="Edit" asp-route-id="@Model.UserId" class="btn btn-warning">Edit Profile</a>
+            </div>
+            <div class="d-flex justify-content-center mb-2">
+                <a asp-action="AddSession" asp-route-tutorId="@Model.UserId" class="btn btn-outline-success profile-btn">Add Session</a>
+            </div>
+            <div class="d-flex justify-content-center mb-2">
+                <a asp-action="AllSubjects" asp-route-tutorId="@Model.UserId" class="btn btn-outline-success profile-btn">Add New Subject</a>
+            </div>
+        </div>
+        <div class="col-md-8">
+            <dl class="row profile-section">
+                <dt class="col-sm-4">Username</dt>
+                <dd class="col-sm-8">@Html.DisplayFor(model => model.Username)</dd>
+                <dt class="col-sm-4">First Name</dt>
+                <dd class="col-sm-8">@Html.DisplayFor(model => model.FirstName)</dd>
+                <dt class="col-sm-4">Last Name</dt>
+                <dd class="col-sm-8">@Html.DisplayFor(model => model.LastName)</dd>
+                <dt class="col-sm-4">Date of Birth</dt>
+                <dd class="col-sm-8">@Html.DisplayFor(model => model.DateOfBirth)</dd>
+                <dt class="col-sm-4">Email</dt>
+                <dd class="col-sm-8">@Html.DisplayFor(model => model.Email)</dd>
+                <dt class="col-sm-4">Contact Number</dt>
+                <dd class="col-sm-8">@Html.DisplayFor(model => model.ContactNumber)</dd>
+                <dt class="col-sm-4">Role</dt>
+                <dd class="col-sm-8">@Html.DisplayFor(model => model.Role)</dd>
+            </dl>
+
+            <div class="mt-5">
+                <div class="row section-content vertical-spacing">
+                    <div class="col-md-6">
+                        <h5 class="section-title">Subjects</h5>
+                        <ul>
+                            @foreach (var subject in ViewBag.Subjects)
+                            {
+                                <li>@subject.SubjectName</li>
+                            }
+                        </ul>
+                    </div>
+                    <div class="col-md-6">
+                        <h5 class="section-title">Sessions</h5>
+                        <ul>
+                            @foreach (var session in ViewBag.Sessions)
+                            {
+                                <li>@session.SessionDate.ToString("dd/MM/yyyy HH:mm")</li>
+                            }
+                        </ul>
+                    </div>
+                </div>
+
+                <div class="row section-content">
+                    <div class="col-md-6 vertical-spacing">
+                        <h5 class="section-title">Received Requests</h5>
+                        <ul>
+                            @foreach (var request in ViewBag.ReceivedRequests)
+                            {
+                                <li>
+                                    <strong>Sender Name:</strong> @ViewBag.Senders[request.SenderId]<br />
+                                    <strong>Sender Contact:</strong> @request.SenderContact<br />
+                                    <strong>Subject:</strong> @if (!string.IsNullOrEmpty(request.Subject))
+                                    {
+                                        @request.Subject
+                                    }<br />
+                                    <strong>Message:</strong> @if (!string.IsNullOrEmpty(request.Message))
+                                    {
+                                        @request.Message
+                                    }
+                                    else
+                                    {
+                                        <span>No message provided.</span>
+                                    }
+                                </li>
+                                <hr />
+                            }
+                        </ul>
+                    </div>
+                    <div class="col-md-6">
+                        <h5 class="section-title">Reviews</h5>
+                        <ul>
+                            @foreach (var review in ViewBag.Reviews)
+                            {
+                                <li>
+                                    <strong>Grade:</strong> @review.Grade<br />
+                                    <strong>Comment:</strong> @if (!string.IsNullOrEmpty(review.Comment))
+                                    {
+                                        @review.Comment
+                                    }
+                                    else
+                                    {
+                                        <span>No comment provided.</span>
+                                    }
+                                </li>
+                                <hr />
+                            }
+                        </ul>
+                    </div>
+                </div>
+
+            </div>
+
+        </div>
+    </div>
+</div>

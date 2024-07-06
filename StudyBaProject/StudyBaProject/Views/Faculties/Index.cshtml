@@ -1,0 +1,71 @@
+﻿@model IEnumerable<StudyBa.Models.Faculty>
+@{
+    ViewData["Title"] = "Faculties";
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewData["Title"]</title>
+    <style>
+        .container {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 20px;
+            width: 100%;
+            margin-top: 40px;
+        }
+
+        .faculty-card {
+            text-align: center;
+            position: relative;
+            overflow: hidden;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            transition: all 0.3s ease;
+        }
+
+            .faculty-card:hover {
+                box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+            }
+
+            .faculty-card img {
+                width: 100%;
+                height: 200px;
+                object-fit: cover;
+                transition: transform 0.3s ease;
+            }
+
+            .faculty-card:hover img {
+                transform: scale(1.1);
+            }
+
+            .faculty-card p {
+                margin-top: 10px;
+                font-size: 18px; /* Povećajte font na 18 piksela */
+            }
+
+        h1 {
+            text-align: start;
+            font-size: 40px;
+            margin-bottom: 50px; /* Veći razmak ispod naslova */
+        }
+    </style>
+</head>
+<body>
+    <h1>@ViewData["Title"]</h1>
+    <div class="container">
+        @foreach (var faculty in Model)
+        {
+            <div class="faculty-card">
+                <a asp-action="Departments" asp-controller="Departments" asp-route-id="@faculty.FacultyId">
+                    <img src="@Url.Content("~/images/" + faculty.FacultyId + ".jpg")" alt="@faculty.FacultyName">
+                </a>
+                <p style="font-size: 25px;">@faculty.FacultyName</p>
+            </div>
+        }
+    </div>
+</body>
+</html>

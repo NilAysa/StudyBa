@@ -1,0 +1,104 @@
+﻿@page
+@model StudyBaProject.Areas.Identity.Pages.Account.RegisterModel
+@{
+    ViewData["Title"] = "Register";
+}
+
+<style>
+    body {
+        background-color: #f8f9fa; /* Promjena boje pozadine */
+    }
+
+    .container {
+        max-width: 500px;
+        background-color: white;
+        padding: 30px;
+        border-radius: 10px;
+        box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.1);
+    }
+
+    .form-group label {
+        font-weight: bold;
+    }
+
+    .input-group-text {
+        background-color: #D5A6BD; /* Promjena boje pozadine ikonice */
+        color: white;
+        border: none;
+    }
+
+    .btn-primary {
+        background-color: #D5A6BD; /* Promjena boje pozadine gumba */
+        border: none;
+        margin-top: 15px; /* Dodatak margine na vrhu */
+    }
+
+        .btn-primary:hover {
+            background-color: #C77CA6; /* Promjena boje pozadine gumba na hover */
+        }
+
+    h1, h4 {
+        color: #343a40; /* Promjena boje naslova */
+    }
+</style>
+
+<div class="container mt-5">
+    <h1>@ViewData["Title"]</h1>
+    <h4>Create a new account</h4>
+    <hr />
+    <form method="post">
+        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+        <div class="form-group">
+            <label asp-for="Input.Username" class="control-label">Username</label>
+            <input asp-for="Input.Username" class="form-control" />
+            <span asp-validation-for="Input.Username" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="Input.Firstname" class="control-label">First Name</label>
+            <input asp-for="Input.Firstname" class="form-control" />
+            <span asp-validation-for="Input.Firstname" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="Input.Lastname" class="control-label">Last Name</label>
+            <input asp-for="Input.Lastname" class="form-control" />
+            <span asp-validation-for="Input.Lastname" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="Input.Email" class="control-label">Email</label>
+            <input asp-for="Input.Email" class="form-control" />
+            <span asp-validation-for="Input.Email" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="Input.PhoneNumber" class="control-label">Phone Number</label>
+            <input asp-for="Input.PhoneNumber" class="form-control" />
+            <span asp-validation-for="Input.PhoneNumber" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="Input.Password" class="control-label">Password</label>
+            <input asp-for="Input.Password" class="form-control" />
+            <span asp-validation-for="Input.Password" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="Input.ConfirmPassword" class="control-label">Confirm Password</label>
+            <input asp-for="Input.ConfirmPassword" class="form-control" />
+            <span asp-validation-for="Input.ConfirmPassword" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="Input.Role"></label>
+            <select asp-for="Input.Role" class="form-control" asp-items="Model.Input.RoleList">
+                <option value="" disabled selected>Select your role</option>
+            </select>
+            <span asp-validation-for="Input.Role" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="Input.Gender" class="control-label">Gender (enter "m" or "f")</label>
+            <input asp-for="Input.Gender" class="form-control" />
+            <span asp-validation-for="Input.Gender" class="text-danger"></span>
+        </div>
+        <button type="submit" class="btn btn-primary">Register</button>
+    </form>
+</div>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

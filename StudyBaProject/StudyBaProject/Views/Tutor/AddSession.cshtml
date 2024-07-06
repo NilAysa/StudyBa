@@ -1,0 +1,82 @@
+﻿@model StudyBa.Models.Session
+
+@{
+    ViewData["Title"] = "Add Session";
+}
+
+<div class="container mt-5">
+    <h2 class="mb-4">Add Session</h2>
+    <form asp-action="AddSession" method="post">
+        <div class="form-group">
+            <label asp-for="SessionDate" class="control-label" style="margin-bottom: 0.5rem;">Session Date and Time</label> <!-- Dodat stil za margin-bottom -->
+            <div class="input-group date" id="datetimepicker1" data-target-input="nearest">
+                <input type="text" asp-for="SessionDate" class="form-control datetimepicker-input" data-target="#datetimepicker1" />
+                <div class="input-group-append" data-target="#datetimepicker1" data-toggle="datetimepicker">
+                    <div class="input-group-text"><img src="~/images/calendericon.jpg" style="width: 25px; height: 25px;" /></div>
+                </div>
+            </div>
+            <span asp-validation-for="SessionDate" class="text-danger"></span>
+        </div>
+        <input type="hidden" asp-for="UserId" />
+        <div class="form-group mt-3">
+            <!-- Dodat margin-top od 3 -->
+            <button type="submit" class="btn btn-primary" style="background-color: #D5A6BD; border: none;">Save</button>
+        </div>
+    </form>
+</div>
+
+
+
+
+@section Scripts {
+    <script type="text/javascript">
+        $(function () {
+            $('#datetimepicker1').datetimepicker({
+                format: 'DD-MM-YYYY HH:mm', // This format will show date, hours, and minutes only
+                icons: {
+                    time: 'fa fa-clock',
+                    date: 'fa fa-calendar',
+                    up: 'fa fa-chevron-up',
+                    down: 'fa fa-chevron-down',
+                    previous: 'fa fa-chevron-left',
+                    next: 'fa fa-chevron-right',
+                    today: 'fa fa-calendar-check',
+                    clear: 'fa fa-trash',
+                    close: 'fa fa-times'
+                }
+            });
+        });
+    </script>
+}
+
+<style>
+    .container {
+        max-width: 600px;
+        background-color: white; /* Promijenjena boja pozadine na bijelu */
+        padding: 30px;
+        border-radius: 10px;
+        box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.1);
+    }
+
+    .form-group label {
+        font-weight: bold;
+    }
+
+    .input-group-text {
+        background-color: #ffff;
+        color: white;
+        border: none;
+    }
+
+    .btn-primary {
+        border: none;
+    }
+
+        .btn-primary:hover {
+            background-color: #D5A6BD;
+        }
+
+    .text-center h2 {
+        color: #007bff;
+    }
+</style>
